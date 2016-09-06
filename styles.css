@@ -1,1 +1,9 @@
-
+body{
+  font-family: 'Inconsolata', 'Titillium Web';
+  background-color: #f2f2f2;
+  
+}
+   
+h1{
+  text-align: center;
+}
